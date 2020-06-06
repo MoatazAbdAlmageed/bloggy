@@ -1510,12 +1510,9 @@
     </style>
     <style type='text/css'>
         @font-face {
-            font-family: 'entypo-fontello';
-            font-weight: 400;
-            font-style: normal;
-            font-display: auto;
-            src: url(https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot);
-            src: url('https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), url(https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff) format('woff'), url(https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf) format('truetype'), url('https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg')
+            font-family: "entypo-fontello";
+            src: url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.eot");
+            src: url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.woff") format("woff"), url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/f797b34c6bb4fdc383eaf58b6980ce02.svg#entypo-fontello") format("svg");
         }
 
         #top .avia-font-entypo-fontello,
