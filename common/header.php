@@ -1397,7 +1397,7 @@
             color: #00aef9
         }
     </style>
-    <link rel="preload" href="https://gooyaabitemplates.com/wp-content/cache/min/1/c0144212edccb66ca1955023f046db1c.css" as="style" onload="this.onload=null;this.rel='stylesheet'" data-minify="1" />
+    <link rel="preload" href="./theme/css/c0144212edccb66ca1955023f046db1c.css" as="style" onload="this.onload=null;this.rel='stylesheet'" data-minify="1" />
     <meta name="description" content="Blog Coupon Blogger Template. Free Professional Blogger Template Responsive SEO Ready Fashion Photography Portfolio Designs." />
     <meta name="robots" content="index, follow" />
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -1413,7 +1413,7 @@
     <meta property="article:author" content="https://www.facebook.com/gooyaabitemplates" />
     <meta property="article:published_time" content="2019-02-28T17:05:35+00:00" />
     <meta property="article:modified_time" content="2019-10-03T02:56:56+00:00" />
-    <meta property="og:image" content="https://gooyaabitemplates.com/download/Blog-Coupon-Blogger-Template-1.jpg" />
+    <meta property="og:image" content="./theme/images/Blog-Coupon-Blogger-Template-1.jpg" />
     <meta property="og:image:width" content="308" />
     <meta property="og:image:height" content="347" />
     <meta name="twitter:card" content="summary" />
@@ -1438,7 +1438,7 @@
                 "@type": "ImageObject",
                 "@id": "https://gooyaabitemplates.com/blog-coupon-blogger-template/#primaryimage",
                 "inLanguage": "en-US",
-                "url": "https://gooyaabitemplates.com/download/Blog-Coupon-Blogger-Template-1.jpg",
+                "url": "./theme/images/Blog-Coupon-Blogger-Template-1.jpg",
                 "width": 308,
                 "height": 347,
                 "caption": "Blog Coupon Blogger Templates"
@@ -1494,7 +1494,7 @@
     <link rel="alternate" type="application/rss+xml" title="Blogger Templates RSS2 Feed" href="https://gooyaabitemplates.com/feed/" />
     <link rel="pingback" href="https://gooyaabitemplates.com/xmlrpc.php" />
     <!--[if lt IE 9]><script src="https://gooyaabitemplates.com/wp-content/themes/Gooyaabi%20Templates/js/html5shiv.js"></script><![endif]-->
-    <link rel="icon" href="https://gooyaabitemplates.com/download/favicon-4.ico" type="image/x-icon">
+    <link rel="icon" href="./theme/images/favicon-4.ico" type="image/x-icon">
     <style type="text/css" id="wp-custom-css">
         .page-id-29992 .main_menu {
             display: none
