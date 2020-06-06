@@ -2,6 +2,10 @@
 
 https://mentoor.io/en/training-ground
 
+## Notes
+
+- I used this extention to extract all images https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm
+
 ## Change Log
 
 ### 1.2
